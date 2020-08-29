@@ -17,7 +17,7 @@ def create_folder(folder_name):
         os.mkdir('./mydata/test_set/' + folder_name)
     
         
-
+#yeh meri ko kisi ne hath lagaumn vksdbnf;kjlsnalkfnslkjefnkjsnfkjsdsfsddnbjsdfjsbdfjsbdfjnbj
         
 def capture_images(ges_name):
     create_folder(str(ges_name))
